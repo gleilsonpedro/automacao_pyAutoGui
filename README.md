@@ -1,7 +1,7 @@
 # 🟥 Automação com PyAutoGui
 ---
 
-O Pyautogui foi criado com o instúito de controlar o teclado e o mouse e assim obter a interação necessária de acordo com a necessidade, esse é um projeto funcional o qual eu utilizei para copiar imagens de um site.
+O Pyautogui foi criado com o intúito de controlar o teclado e o mouse e assim obter a interação necessária de acordo com a necessidade, esse é um projeto funcional o qual eu utilizei para copiar imagens de um site.
 
 ## Instruções
 
