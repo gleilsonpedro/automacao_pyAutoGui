@@ -26,9 +26,6 @@ ___
 pip install -r requirements.txt
 ```
 ___
-
-
-___
 ## 🛠️ ferramentas
 
 * [Documentação Pyautogui](https://pyautogui.readthedocs.io/en/latest/)
