@@ -20,7 +20,7 @@ O projeto é livre pra usar sua imaginação.
 ___
 ## 🔧 instalação
 
- -só é necessário a instalação do requirements.txt
+ -Instale somente o requirements.txt
 
 ```
 pip install -r requirements.txt
