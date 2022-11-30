@@ -14,10 +14,6 @@ position = pyautogui.position()
 - após isso é preferivel clicar com o direito na pagia onde sequer salvar e escolher já o local de salvamento salvando a primeira página para o sistema memorizar.
 - Agora so ver as instruções do código antes de executar (inicio.py)
 ___
-## 🟩 Copias
-
-O projeto é livre pra usar sua imaginação.
-___
 ## 🔧 instalação
 
  -Instale somente o requirements.txt
